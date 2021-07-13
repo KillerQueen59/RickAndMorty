@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MadeProjectOjan</string>
+    <string name="home">Home</string>
+    <string name="favourite">Favourite</string>
+    <string name="search">Search</string>
+    <string name="title_favourite">Favourite</string>
+</resources>
